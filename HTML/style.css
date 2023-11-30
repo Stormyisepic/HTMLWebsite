@@ -1,5 +1,5 @@
 body {
-    background-color: #3b3141;
+    background-color: #8b6c9c;
     font-family: Arial, sans-serif;
     
 }
@@ -26,7 +26,5 @@ body {
     cursor: pointer;
     transition: background-color 0.3s ease;
   }
-  
-  #playButton:hover {
-    background-color: #2980b9;
-  }
+
+
